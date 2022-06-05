@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @comanandrei1993
-- 👀 I’m interested in HTML, CSS, Javascript, Vue JS, PHP, Symfony, photography & get-rich-over-night-by-selling-NFTs schemes.
-- 🌱 I’m currently learning HTML, CSS, Javascript, Vue JS, PHP, Symfony, photography & how to get rich over night by selling NFTs
-- 💞️ I’m looking to collaborate on... honestly, nothing right now. I barely have any idea what I'm doing.
+- 👀 I’m interested in HTML, CSS, Javascript, PHP, Symfony, photography & get-rich-over-night-by-selling-NFTs schemes.
+- 🌱 I’m currently working with HTML, CSS, Javascript, PHP, Symfony and learning photography & how to get rich over night by selling NFTs
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me -> comanandrei1993@gmail.com - Don't spam! Please?
 
 <!---
